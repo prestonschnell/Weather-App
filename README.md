@@ -1,6 +1,6 @@
 # Welcome to My Weather App!
 
-![Live Preview](weather-app-gif.gif)
+![Live Preview](Weather-App-gif.gif)
 
 ## Overview
 This is a clean and responsive weather forecasting app built using vanilla HTML, CSS, and JavaScript. It fetches real-time weather data from the OpenWeatherMap API based on user input and displays key weather metrics in a visually appealing card layout.
